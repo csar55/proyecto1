@@ -1,0 +1,11 @@
+.circle{
+	width: 200px;
+	height: 200px;
+	background-color:#682DEE ;
+	border-radius: 100%;
+}
+.circle > .imga{
+	width: 100%;
+	height: 100%;
+	border-radius: 100%;
+}
